@@ -57,7 +57,7 @@ public class Main2 {
         }
         System.out.println();
         for (Double number : C) {
-            System.out.print(number + " ");
+            System.out.print(number + "  ");
         }
     }
 }
